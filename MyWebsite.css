@@ -85,4 +85,16 @@ li a:hover {
 .gallery img:hover {
 	background: white;
 	border: 10px;
+	}
 
+.info {
+	width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+   
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 20px;
+    font-family: arial;
+	}
