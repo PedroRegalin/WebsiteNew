@@ -18,6 +18,10 @@ body {
 
 }
 
+.pics {
+	width: 20%;
+}
+
 p {
 	text-align: justify;
 	font-family: arial;
